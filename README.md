@@ -1,4 +1,4 @@
-# Antenna Synthesis
+# Topics in Antennas - Antenna Synthesis
 The report documents are both in greek.
 
 The first assignment covers replicating a microstrip patch antenna from an academic paper and validating the paper's simulation results, using MATLAB's Antenna Toolbox.
